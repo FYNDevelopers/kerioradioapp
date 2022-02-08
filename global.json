@@ -1,0 +1,7 @@
+{
+	"global": {
+		"stream_url": "https://stream.trap.fynradio.com",
+		"poster": "http://example.com",
+		"ad": "http://example.com"
+	}
+}
