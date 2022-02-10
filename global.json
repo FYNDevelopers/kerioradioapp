@@ -1,6 +1,6 @@
 {
 	"global": {
-		"stream_url": "https://stream.kerioradio.fynradio.com",
+		"stream_url": "http://147.135.130.215:8184/stream",
 		"poster": "",
 		"ad": "",
 		"ad_url":"",
