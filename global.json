@@ -1,8 +1,8 @@
 {
 	"global": {
 		"stream_url": "https://stream.trap.fynradio.com",
-		"poster": "http://example.com",
-		"ad": "http://example.com",
+		"poster": "",
+		"ad": "https://fyndevelopers.github.io/kerioradioapp/advert/default_ad.jpg",
 		"studio_call_no":"0700111222",
 		"studio_txt_no":"0711222333"
 	}
