@@ -1,9 +1,9 @@
 {
 	"global": {
-		"stream_url": "https://stream.trap.fynradio.com",
-		"poster": "https://fyndevelopers.github.io/kerioradioapp/poster/mic_poster.jpg",
+		"stream_url": "https://stream.kerioradio.fynradio.com",
+		"poster": "",
 		"ad": "",
-		"ad_url":"https://google.com",
+		"ad_url":"",
 		"studio_call_no":"0700111222",
 		"studio_txt_no":"0711222333"
 	}
