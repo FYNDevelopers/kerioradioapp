@@ -12,15 +12,7 @@
 		"studio_txt_no":"0711222333",
 		"podcasts_link":"https://open.spotify.com/show/20BzOyTMoDJzxUnShhjDht",
 		"news_link":"https://kerioradio.co.ke/news",		
-		"shows_link":"https://kerioradio.co.ke/shows",
-		
-		"news_link_format_js_1":"
-		var news_header = document.getElementsByClassName("site-footer-wrap"); 
-		var news_footer = document.getElementsByClassName('site-mobile-header-wrap');
-			for (var i = 0; i < news_header.length; i ++) {
-    				news_header[i].style.display = 'none'; }
+		"shows_link":"https://kerioradio.co.ke/shows"
 
-			for (var i = 0; i < news_footer.length; i ++) {
-				news_footer[i].style.display = 'none'; }"
 	}
 }
