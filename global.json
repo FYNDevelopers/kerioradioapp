@@ -21,6 +21,6 @@
     				news_header[i].style.display = 'none'; }
 
 			for (var i = 0; i < news_footer.length; i ++) {
-				news_footer[i].style.display = 'none'; }",
+				news_footer[i].style.display = 'none'; }"
 	}
 }
