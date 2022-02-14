@@ -9,11 +9,11 @@ for (var i = 0; i < news_footer.length; i ++) {
      news_footer[i].style.display = 'none'; };
 
 /** Podcasts **/
-var appBanners = document.getElementsByClassName('bbQTfD');
-var appBanners = document.getElementsByClassName('gbtPqP'); 
+var podcast_header = document.getElementsByClassName('bbQTfD');
+var podcast_header_2 = document.getElementsByClassName('gbtPqP'); 
 
-for (var i = 0; i < appBanners.length; i ++) {
-     appBanners[i].style.display = 'none'; };
+for (var i = 0; i < podcast_header.length; i ++) {
+     podcast_header[i].style.display = 'none'; };
  
-for (var i = 0; i < appBanners.length; i ++) {
-     appBanners[i].style.display = 'none'; };
+for (var i = 0; i < podcast_header_2.length; i ++) {
+     podcast_header_2[i].style.display = 'none'; };
