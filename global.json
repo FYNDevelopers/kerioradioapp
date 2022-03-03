@@ -2,7 +2,7 @@
 	"global": {
 		"stream_url": "https://stream.kerioradio.fynradio.com",
 		"poster": "",
-		"ad": "https://fyndevelopers.github.io/kerioradioapp/advert/ad_example.jpg",
+		"ad": "",
 		"ad_url":"",
 		"facebook_link":"https://www.facebook.com/kerioradio",
 		"twitter_link":"https://twitter.com/KerioRadio",
